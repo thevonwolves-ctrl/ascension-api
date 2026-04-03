@@ -1,0 +1,10 @@
+{
+"name": "ascension-api-v2"
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "echo build-complete",
+    "start": "node app.js"
+  }
+}
